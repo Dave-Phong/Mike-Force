@@ -691,8 +691,8 @@ magazines[] = {
     {"vn_mine_punji_03_mag",    {0, -1, 0, -1}},    // Trap punji (Whip)
     {"vn_mine_tm57_mag",        {0, -1, 0, -1}},    // Mine TM-57 Anti-Tank
     {"vn_mine_tripwire_arty_mag", {0, -1, 0, -1}},  // Trap IED 4m tripwire
-    {"vn_mine_tripwire_f1_02_mag", {0, -1, 0, -1}}, // Trap F-1 2m tripwire
-    {"vn_mine_tripwire_f1_04_mag", {0, -1, 0, -1}}, // Trap F-1 4m tripwire
+    {"vn_mine_tripwire_f1_02_mag", {0, 0, 0, -1}}, // Trap F-1 2m tripwire
+    {"vn_mine_tripwire_f1_04_mag", {0, 0, 0, -1}}, // Trap F-1 4m tripwire
     {"vn_mine_bike_mag",        {0, -1, 0, -1}},    // Mine Bicycle (Remote)
     {"vn_mine_bike_range_mag",  {0, -1, 0, -1}},    // Mine Bicycle (Proximity)
     {"vn_mine_cartridge_mag",   {0, -1, 0, -1}},    // Mine Cartridge (Proximity)
@@ -889,7 +889,7 @@ items[] =   {
     {"vn_b_item_compass_sog",   {0, 0, 0, -1}},
     {"vn_b_item_firstaidkit",   {-1, 0, 0, -1}},
     {"vn_b_item_map",           {-1, 0, 0, -1}},
-    {"vn_b_item_medikit_01",    {-1, 0, 0, -1}},
+    {"vn_b_item_medikit_01",    {0, 0, 0, -1}},
     {"vn_b_item_radio_urc10",   {-1, 0, 0, -1}},
     {"vn_b_item_toolkit",       {0, 0, 0, -1}},
     {"vn_b_item_watch",         {0, 0, 0, -1}},
